@@ -1,0 +1,6 @@
+{
+  "name": "Darul Madina Islamia Madrasha",
+  "description": "Smart Islamic Madrasa Management System for Darul Madina Islamia Madrasha with multi-panel management, public portal, online services, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
